@@ -114,7 +114,7 @@
 
 ### 완성된 모형
 
-![image](https://user-images.githubusercontent.com/66341540/100956395-b763d000-355b-11eb-946d-1157cf5ba00e.png)
+![modeling](https://user-images.githubusercontent.com/75401911/105063486-21f6ae00-5abf-11eb-8c4a-7a9d7175a47a.png)
 
  
 ### 비기능 요구사항에 대한 검증
