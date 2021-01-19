@@ -109,7 +109,7 @@
 
 
 ## Event Storming 결과
-* MSAEz 로 모델링한 이벤트스토밍 결과:  http://www.msaez.io/#/storming/byIxok3KxwPmNS0LTBaRBxIaWot2/mine/da2c98d4d6fc151ee88572a6ad82c909
+* MSAEz 로 모델링한 이벤트스토밍 결과:  http://www.msaez.io/#/storming/OoOJiLVzK9ZtVsdH4IuFCQnjLrl2/mine/c0ce547918592c0400dcafa81b8bda98
 
 
 ### 완성된 모형
