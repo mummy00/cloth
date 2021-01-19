@@ -37,7 +37,7 @@
 비기능적 요구사항
 1. 트랜잭션
     1. 고객의 주문 취소는 반드시 배송팀 배송취소가 전제되어야 한다  Sync 호출 
-    1. Special 주문이 완료되면 배송이 시작된다 Sync 호출
+    1. Special 주문이 완료되면 바로 배송이 시작된다 Sync 호출
 1. 장애격리
     1. 배송관리 기능이 수행되지 않더라도 주문은 365일 24시간 받을 수 있어야 한다  Async (event-driven), Eventual Consistency
     1. 배송이 과중되면 배송을 잠시동안 받지 않고 잠시후에 배송 처리 하도록 유도한다  Circuit breaker, fallback
